@@ -4,6 +4,7 @@ Sou apaixonado por tecnologia. Atuei durante anos como professor de inglês até
 
 ## 😁 Me interesso por:
 - 💻 Desenvolvimento Front-End
+- 📱 Desenvolvimento Android
 - 🎮 Game Dev
 - :black_square_button: Modelagem 3D
 
