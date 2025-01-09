@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Everton! Pode entrar e pega um café! ☕👋
 
-Sou apaixonado por tecnologia. Atuei durante anos como professor de inglês até finalmente decidir me dedicar a uma carreira em tech. Atualmente, estou em processo de migração profissional e de aprendizado.
+Sou apaixonado por tecnologia. Atuei durante anos como professor de inglês até decidir me dedicar a uma carreira em tech. Atualmente, estou em processo de migração profissional e de aprendizado.
 
 ## 😁 Me interesso por:
 - 💻 Desenvolvimento Front-End
