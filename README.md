@@ -1,19 +1,19 @@
-## Olá! Meu nome é Everton! Pode entrar e pega um café! ☕👋
+## Hi there! My name is Everton! Come on in and grab a coffee! ☕👋
 
-Sou apaixonado por tecnologia. Atuei durante anos como professor de inglês até decidir me dedicar a uma carreira em tech. Atualmente, estou em processo de migração profissional e de aprendizado.
+I'm passionate about technology. I worked for years as an English teacher until I decided to dedicate myself to a career in tech. I am currently in the process of learning and looking for new projects and professional opportunities.
 
-## 😁 Me interesso por:
-- 💻 Desenvolvimento Front-End
-- 📱 Desenvolvimento Android
+## 😁 I'm interested in:
+- 💻 Front-End Development
+- 📱 Android Development
 - 🎮 Game Dev
-- :black_square_button: Modelagem 3D
+- :black_square_button: 3D Modeling
 
-## 💻 Estou aprendendo no momento: 
+## 💻 I'm learning right now: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonmissiagia&size_weight=0.5&count_weight=0.5)
 
-## ✉️ Contato:
+## ✉️ You can reach me at:
 
 <div>
 <a href = "mailto:eamissiagia@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
