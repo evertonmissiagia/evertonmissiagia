@@ -2,7 +2,7 @@
 
 I'm passionate about technology. I worked for years as an English teacher until I decided to dedicate myself to a career in tech. I am currently in the process of learning and looking for new projects and professional opportunities.
 
-[assets\img\logos\logo-site.png](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+![Pacman][assets\img\logos\logo-site.png](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 # 😁 I'm interested in:
 
