@@ -9,7 +9,7 @@ I'm passionate about technology. I worked for years as an English teacher until 
 - :black_square_button: 3D Modeling
 
 ## 💻 I'm learning right now: 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white); 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
 
 ## ✉️ You can reach me at:
 
