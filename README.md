@@ -11,7 +11,7 @@ Sou apaixonado por tecnologia. Atuei durante anos como professor de inglês até
 ## 💻 Estou aprendendo no momento: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonmissiagia)](https://github.com/evertonmissiagia/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonmissiagia&size_weight=0.5&count_weight=0.5)
 
 ## ✉️ Contato:
 
