@@ -2,7 +2,7 @@
 
 I'm passionate about technology. I worked for years as an English teacher until I decided to dedicate myself to a career in tech. I am currently in the process of learning and looking for new projects and professional opportunities.
 
-😁 I'm interested in:
+# 😁 I'm interested in:
 
 - 💻 Front-End Development
 - 📱 Android Development
