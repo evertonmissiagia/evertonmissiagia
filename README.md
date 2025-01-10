@@ -17,4 +17,5 @@ I'm passionate about technology. I worked for years as an English teacher until 
 <a href = "mailto:eamissiagia@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/everton-augusto-missiagia-391936162" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
+<div>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonmissiagia&size_weight=0.5&count_weight=0.5)
