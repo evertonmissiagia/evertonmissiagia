@@ -6,7 +6,7 @@ I'm passionate about technology. I worked for years as an English teacher until 
 
 # 😁 I'm interested in:
 
-- 💻 Front-End Development
+- 💻 Full-stack Development
 - 📱 Android Development
 - 🎮 Game Dev
 - :black_square_button: 3D Modeling
