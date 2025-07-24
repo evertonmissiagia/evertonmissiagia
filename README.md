@@ -9,10 +9,9 @@ Meu nome é Everton. Atuei por muitos anos como professor de inglês até decidi
 - :black_square_button: Modelagem 3D
 
 # 💻 Ferramentas & Tecnologias:
-[[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
-![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
+<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
+<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />
 
 # 💻 Estou aprendendo agora: 
 
