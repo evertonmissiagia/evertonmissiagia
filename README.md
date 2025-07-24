@@ -5,7 +5,6 @@ Meu nome é Everton. Atuei por muitos anos como professor de inglês até decidi
 # 😁 Áreas de Interesse:
 
 - 💻 Desenvolvimento Backend
-- 📱 Desenvolvimento Android
 - 🎮 Game Dev
 - :black_square_button: Modelagem 3D
 
